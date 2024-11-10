@@ -1,6 +1,6 @@
 SplineFontDB: 3.2
 FontName: Kenig-Sans-Regular
-FullName: Kenig Sans
+FullName: Kenig Sans Regular
 FamilyName: Kenig Sans
 Weight: Regular
 Copyright: Copyright 2011 Google Inc. All Rights Reserved.
@@ -22,7 +22,7 @@ OS2Version: 3
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1221222574
-ModificationTime: 1731263240
+ModificationTime: 1731272083
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
