@@ -3,15 +3,15 @@ FontName: Kenig-Sans-Regular
 FullName: Kenig Sans Regular
 FamilyName: Kenig Sans
 Weight: Regular
-Copyright: Copyright 2011 Google Inc. All Rights Reserved.
-Version: 2.137; 2017
+Copyright: Copyright (c) 2023-2024, Kenig Type Foundry
+Version: 1.0
 ItalicAngle: 0
 UnderlinePosition: -200
 UnderlineWidth: 100
 Ascent: 1536
 Descent: 512
 InvalidEm: 0
-sfntRevision: 0x00022312
+sfntRevision: 0x00010000
 LayerCount: 2
 Layer: 0 1 "Warstwa t+AUIA-a" 1
 Layer: 1 1 "Plan pierwszy" 0
@@ -22,7 +22,7 @@ OS2Version: 3
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1221222574
-ModificationTime: 1731272083
+ModificationTime: 1731600256
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -1046,7 +1046,7 @@ NameList: AGL For New Fonts
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 8170 38 13
+WinInfo: 114 38 13
 BeginPrivate: 0
 EndPrivate
 BeginChars: 65936 1413
