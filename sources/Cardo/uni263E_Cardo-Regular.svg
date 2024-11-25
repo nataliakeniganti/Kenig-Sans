@@ -1,5 +1,36 @@
-<?xml version="1.0" standalone="no"?>
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" viewBox="-10 0 1331 2048">
-   <g  />
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   version="1.1"
+   viewBox="-10 0 1331 2048"
+   id="svg1"
+   sodipodi:docname="uni263E_Cardo-Regular.svg"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="0.38623047"
+     inkscape:cx="666.70038"
+     inkscape:cy="1024"
+     inkscape:window-width="1920"
+     inkscape:window-height="991"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg1" />
+  <path
+     fill="currentColor"
+     d="M 1156,268 Q 990,228 808,228 464,228 269.5,444 75,660 75,981 q 0,321 194.5,537 194.5,216 525.5,216 200,0 366,-40 -131,-4 -270,-112 Q 752,1474 660.5,1309 569,1144 569,980.5 569,817 659.5,651.5 750,486 888,379 1026,272 1156,268 Z M 496,769 q -28,98 -28,211 0,206 93,373 93,167 235,281 -309,0 -474,-196 Q 175,1262 175,982 175,702 322,526 487,328 796,328 570,510 496,769 Z"
+     id="path1" />
 </svg>
