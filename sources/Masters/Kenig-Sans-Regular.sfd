@@ -22,7 +22,7 @@ OS2Version: 3
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1221222574
-ModificationTime: 1732641655
+ModificationTime: 1732650365
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -57,11 +57,14 @@ OS2XHeight: 1082
 OS2Vendor: 'GOOG'
 OS2CodePages: 2000019f.00000000
 OS2UnicodeRanges: e00002ff.5000205b.00000020.00000000
+Lookup: 4 0 1 "'liga' Ligatury zwyk+AUIA-e w hebrajskie w tablicy 29" { "'liga' Ligatury zwyk+AUIA-e w hebrajskie w tablicy 29-1"  } ['liga' ('hebr' <'dflt' > ) ]
 Lookup: 1 0 0 "'c2sc' Wersaliki na kapitaliki w tablicy 0" { "Podtablica 'c2sc' Wersaliki na kapitaliki w tablicy 0"  } ['c2sc' ('DFLT' <'dflt' > 'cyrl' <'dflt' > 'grek' <'dflt' > 'latn' <'AZE ' 'CRT ' 'FRA ' 'MOL ' 'NAV ' 'ROM ' 'TRK ' 'dflt' > ) ]
 Lookup: 1 0 0 "'smcp' Tekstowe na kapitaliki w tablicy 1" { "Podtablica 'smcp' Tekstowe na kapitaliki w tablicy 1"  } ['smcp' ('DFLT' <'dflt' > 'cyrl' <'dflt' > 'grek' <'dflt' > 'latn' <'AZE ' 'CRT ' 'FRA ' 'MOL ' 'NAV ' 'ROM ' 'TRK ' 'dflt' > ) ]
 Lookup: 6 0 0 "'ccmp' Sk+AUIA-adanie/dekompozycja glif+APMA-w w tablicy 2" { "Tablica 'ccmp' Sk+AUIA-adanie/dekompozycja glif+APMA-w w tablicy 2, funkcja kontekstowa 0"  "Tablica 'ccmp' Sk+AUIA-adanie/dekompozycja glif+APMA-w w tablicy 2, funkcja kontekstowa 1"  "Tablica 'ccmp' Sk+AUIA-adanie/dekompozycja glif+APMA-w w tablicy 2, funkcja kontekstowa 2"  "Tablica 'ccmp' Sk+AUIA-adanie/dekompozycja glif+APMA-w w tablicy 2, funkcja kontekstowa 3"  "Tablica 'ccmp' Sk+AUIA-adanie/dekompozycja glif+APMA-w w tablicy 2, funkcja kontekstowa 4"  "Tablica 'ccmp' Sk+AUIA-adanie/dekompozycja glif+APMA-w w tablicy 2, funkcja kontekstowa 5"  } ['ccmp' ('DFLT' <'dflt' > 'cyrl' <'dflt' > 'grek' <'dflt' > 'latn' <'AZE ' 'CRT ' 'FRA ' 'MOL ' 'NAV ' 'ROM ' 'TRK ' 'dflt' > ) ]
 Lookup: 1 0 0 "Podstawienie pojedyncze w tablicy 3" { "Podtablica Podstawienie pojedyncze w tablicy 3"  } []
 Lookup: 4 0 0 "'ccmp' Sk+AUIA-adanie/dekompozycja glif+APMA-w w tablicy 4" { "Podtablica 'ccmp' Sk+AUIA-adanie/dekompozycja glif+APMA-w w tablicy 4"  "'ccmp' Sk+AUIA-adanie/dekompozycja glif+APMA-w w tablicy 4-1"  } ['ccmp' ('DFLT' <'dflt' > 'cyrl' <'dflt' > 'grek' <'dflt' > 'latn' <'AZE ' 'CRT ' 'FRA ' 'MOL ' 'NAV ' 'ROM ' 'TRK ' 'dflt' > ) ]
+Lookup: 4 0 0 "'dlig' Ligatury ozdobne w hebrajskie w tablicy 26" { "'dlig' Ligatury ozdobne w hebrajskie w tablicy 26-1"  } ['dlig' ('hebr' <'dflt' > ) ]
+Lookup: 4 0 0 "'ccmp' Sk+AUIA-adanie/dekompozycja glif+APMA-w w hebrajskie w tablicy 27" { "'ccmp' Sk+AUIA-adanie/dekompozycja glif+APMA-w w hebrajskie w tablicy 27-1"  } ['ccmp' ('hebr' <'dflt' > ) ]
 Lookup: 1 0 0 "'locl' Formy lokalne (np. narodowe) w +AUIA-aci+AUQA-skie w tablicy 5" { "Podtablica 'locl' Formy lokalne (np. narodowe) w +AUIA-aci+AUQA-skie w tablicy 5"  } ['locl' ('latn' <'MOL ' 'ROM ' > ) ]
 Lookup: 1 0 0 "'locl' Formy lokalne (np. narodowe) w +AUIA-aci+AUQA-skie w tablicy 6" { "Podtablica 'locl' Formy lokalne (np. narodowe) w +AUIA-aci+AUQA-skie w tablicy 6"  } ['locl' ('latn' <'NAV ' > ) ]
 Lookup: 1 0 0 "'locl' Formy lokalne (np. narodowe) w +AUIA-aci+AUQA-skie w tablicy 7" { "Podtablica 'locl' Formy lokalne (np. narodowe) w +AUIA-aci+AUQA-skie w tablicy 7"  } ['locl' ('latn' <'FRA ' > ) ]
@@ -1046,11 +1049,11 @@ NameList: AGL For New Fonts
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 9462 38 13
+WinInfo: 646 38 13
 BeginPrivate: 0
 EndPrivate
 TeXData: 1 0 0 259584 129792 86528 553984 -1048576 86528 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
-BeginChars: 65944 1766
+BeginChars: 65944 1812
 
 StartChar: .notdef
 Encoding: 65536 -1 0
@@ -1060,27 +1063,25 @@ Flags: W
 LayerCount: 2
 Fore
 SplineSet
-808 0 m 1,0,-1
- 100 0 l 1,1,-1
- 100 1456 l 1,2,-1
- 808 1456 l 1,3,-1
- 808 0 l 1,0,-1
-754 84 m 1,4,-1
- 754 1371 l 1,5,-1
- 480 728 l 1,6,-1
- 754 84 l 1,4,-1
-154 1359 m 1,7,-1
- 154 96 l 1,8,-1
- 422 728 l 1,9,-1
- 154 1359 l 1,7,-1
-194 54 m 1,10,-1
- 709 54 l 1,11,-1
- 451 660 l 1,12,-1
- 194 54 l 1,10,-1
-451 796 m 1,13,-1
- 709 1402 l 1,14,-1
- 194 1402 l 1,15,-1
- 451 796 l 1,13,-1
+342 729 m 256,0,1
+ 342 774 342 774 369 804.5 c 128,-1,2
+ 396 835 396 835 450 835 c 256,3,4
+ 504 835 504 835 532 804.5 c 128,-1,5
+ 560 774 560 774 560 729 c 256,6,7
+ 560 684 560 684 532 654 c 128,-1,8
+ 504 624 504 624 450 624 c 256,9,10
+ 396 624 396 624 369 654 c 128,-1,11
+ 342 684 342 684 342 729 c 256,0,1
+808 0 m 1,12,-1
+ 100 0 l 1,13,-1
+ 100 1456 l 1,14,-1
+ 808 1456 l 1,15,-1
+ 808 0 l 1,12,-1
+754 1402 m 1,16,-1
+ 154 1402 l 1,17,-1
+ 154 54 l 1,18,-1
+ 754 54 l 1,19,-1
+ 754 1402 l 1,16,-1
 EndSplineSet
 EndChar
 
@@ -115209,6 +115210,537 @@ SplineSet
  564 1316 564 1316 387 1139 c 128,-1,35
  210 962 210 962 210 712 c 256,24,25
 EndSplineSet
+EndChar
+
+StartChar: uniFB1D
+Encoding: 64285 64285 1766
+Width: 532
+Flags: W
+LayerCount: 2
+Fore
+Refer: 1656 1497 N 1 0 0 1 0 0 3
+Refer: 1717 1468 N 1 0 0 1 266 -331 2
+EndChar
+
+StartChar: uniFB1E
+Encoding: 64286 64286 1767
+Width: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+330 1763 m 1,0,1
+ 330 1618 330 1618 240 1532 c 128,-1,2
+ 150 1446 150 1446 0 1446 c 256,3,4
+ -150 1446 -150 1446 -240 1533.5 c 128,-1,5
+ -330 1621 -330 1621 -330 1763 c 1,6,-1
+ -168 1763 l 1,7,8
+ -168 1686 -168 1686 -123 1639.5 c 128,-1,9
+ -78 1593 -78 1593 0 1593 c 0,10,11
+ 77 1593 77 1593 122.5 1641 c 128,-1,12
+ 168 1689 168 1689 168 1763 c 1,13,-1
+ 330 1763 l 1,0,1
+EndSplineSet
+EndChar
+
+StartChar: uniFB1F
+Encoding: 64287 64287 1768
+Width: 1042
+Flags: W
+LayerCount: 2
+Fore
+Refer: 1656 1497 N 1 0 0 1 0 0 2
+Refer: 1656 1497 N 1 0 0 1 510 0 2
+Refer: 1712 1463 N 1 0 0 1 522 547 2
+Ligature2: "'liga' Ligatury zwyk+AUIA-e w hebrajskie w tablicy 29-1" uni05F2 uni05B7
+EndChar
+
+StartChar: uniFB20
+Encoding: 64288 64288 1769
+Width: 1192
+Flags: W
+LayerCount: 2
+Fore
+Refer: 1665 1506 N 1 0 0 1 0 0 3
+EndChar
+
+StartChar: uniFB21
+Encoding: 64289 64289 1770
+Width: 1286
+Flags: W
+LayerCount: 2
+Fore
+Refer: 1647 1488 N 1 0 0 1 0 0 3
+EndChar
+
+StartChar: uniFB22
+Encoding: 64290 64290 1771
+Width: 1135
+Flags: W
+LayerCount: 2
+Fore
+Refer: 1650 1491 N 1 0 0 1 0 0 3
+EndChar
+
+StartChar: uniFB23
+Encoding: 64291 64291 1772
+Width: 1298
+Flags: W
+LayerCount: 2
+Fore
+Refer: 1651 1492 N 1 0 0 1 0 0 3
+EndChar
+
+StartChar: uniFB24
+Encoding: 64292 64292 1773
+Width: 1075
+Flags: W
+LayerCount: 2
+Fore
+Refer: 1658 1499 N 1 0 0 1 0 0 3
+EndChar
+
+StartChar: uniFB25
+Encoding: 64293 64293 1774
+Width: 1085
+Flags: W
+LayerCount: 2
+Fore
+Refer: 1659 1500 N 1 0 0 1 0 0 3
+EndChar
+
+StartChar: uniFB26
+Encoding: 64294 64294 1775
+Width: 1389
+Flags: W
+LayerCount: 2
+Fore
+Refer: 1660 1501 N 1 0 0 1 0 0 3
+EndChar
+
+StartChar: uniFB27
+Encoding: 64295 64295 1776
+Width: 1094
+Flags: W
+LayerCount: 2
+Fore
+Refer: 1671 1512 N 1 0 0 1 0 0 3
+EndChar
+
+StartChar: uniFB28
+Encoding: 64296 64296 1777
+Width: 1415
+Flags: W
+LayerCount: 2
+Fore
+Refer: 1673 1514 N 1 0 0 1 0 0 3
+EndChar
+
+StartChar: uniFB29
+Encoding: 64297 64297 1778
+Width: 1151
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+1063 700 m 1,0,-1
+ 1063 514 l 1,1,-1
+ 90 514 l 1,2,-1
+ 90 700 l 1,3,-1
+ 481 700 l 1,4,-1
+ 481 1128 l 1,5,-1
+ 668 1128 l 1,6,-1
+ 668 700 l 1,7,-1
+ 1063 700 l 1,0,-1
+EndSplineSet
+EndChar
+
+StartChar: uniFB2A
+Encoding: 64298 64298 1779
+Width: 1495
+Flags: W
+LayerCount: 2
+Fore
+Refer: 1672 1513 N 1 0 0 1 0 0 3
+Refer: 1714 1465 N 1 0 0 1 1325 0 2
+Ligature2: "'ccmp' Sk+AUIA-adanie/dekompozycja glif+APMA-w w hebrajskie w tablicy 27-1" uni05E9 uni05C1
+EndChar
+
+StartChar: uniFB2B
+Encoding: 64299 64299 1780
+Width: 1495
+Flags: W
+LayerCount: 2
+Fore
+Refer: 1672 1513 N 1 0 0 1 0 0 3
+Refer: 1714 1465 N 1 0 0 1 152 0 2
+Ligature2: "'ccmp' Sk+AUIA-adanie/dekompozycja glif+APMA-w w hebrajskie w tablicy 27-1" uni05E9 uni05C2
+EndChar
+
+StartChar: uniFB2C
+Encoding: 64300 64300 1781
+Width: 1495
+Flags: W
+LayerCount: 2
+Fore
+Refer: 1672 1513 N 1 0 0 1 0 0 3
+Refer: 1714 1465 N 1 0 0 1 1360 0 2
+Refer: 1717 1468 N 1 0 0 1 958 -79 2
+Ligature2: "'ccmp' Sk+AUIA-adanie/dekompozycja glif+APMA-w w hebrajskie w tablicy 27-1" uniFB49 uni05C1
+EndChar
+
+StartChar: uniFB2D
+Encoding: 64301 64301 1782
+Width: 1495
+Flags: W
+LayerCount: 2
+Fore
+Refer: 1672 1513 N 1 0 0 1 0 0 3
+Refer: 1717 1468 N 1 0 0 1 958 -79 2
+Refer: 1714 1465 N 1 0 0 1 145 0 2
+Ligature2: "'ccmp' Sk+AUIA-adanie/dekompozycja glif+APMA-w w hebrajskie w tablicy 27-1" uniFB49 uni05C2
+EndChar
+
+StartChar: uniFB2E
+Encoding: 64302 64302 1783
+Width: 1286
+Flags: W
+LayerCount: 2
+Fore
+Refer: 1647 1488 N 1 0 0 1 0 0 3
+Refer: 1712 1463 N 1 0 0 1 643 0 2
+Ligature2: "'liga' Ligatury zwyk+AUIA-e w hebrajskie w tablicy 29-1" uni05D0 uni05B7
+Ligature2: "'ccmp' Sk+AUIA-adanie/dekompozycja glif+APMA-w w hebrajskie w tablicy 27-1" uni05D0 uni05B7
+EndChar
+
+StartChar: uniFB2F
+Encoding: 64303 64303 1784
+Width: 1286
+Flags: W
+LayerCount: 2
+Fore
+Refer: 1647 1488 N 1 0 0 1 0 0 3
+Refer: 1713 1464 N 1 0 0 1 643 0 2
+Ligature2: "'liga' Ligatury zwyk+AUIA-e w hebrajskie w tablicy 29-1" uni05D0 uni05B8
+Ligature2: "'ccmp' Sk+AUIA-adanie/dekompozycja glif+APMA-w w hebrajskie w tablicy 27-1" uni05D0 uni05B8
+EndChar
+
+StartChar: uniFB30
+Encoding: 64304 64304 1785
+Width: 1286
+Flags: W
+LayerCount: 2
+Fore
+Refer: 1647 1488 N 1 0 0 1 0 0 3
+Refer: 1717 1468 N 1 0 0 1 569 -585 2
+Ligature2: "'ccmp' Sk+AUIA-adanie/dekompozycja glif+APMA-w w hebrajskie w tablicy 27-1" uni05D0 uni05BC
+EndChar
+
+StartChar: uniFB31
+Encoding: 64305 64305 1786
+Width: 1225
+Flags: W
+LayerCount: 2
+Fore
+Refer: 1648 1489 N 1 0 0 1 0 0 3
+Refer: 1717 1468 N 1 0 0 1 467 0 2
+Ligature2: "'ccmp' Sk+AUIA-adanie/dekompozycja glif+APMA-w w hebrajskie w tablicy 27-1" uni05D1 uni05BC
+EndChar
+
+StartChar: uniFB32
+Encoding: 64306 64306 1787
+Width: 866
+Flags: W
+LayerCount: 2
+Fore
+Refer: 1649 1490 N 1 0 0 1 0 0 3
+Refer: 1717 1468 N 1 0 0 1 201 76 2
+Ligature2: "'ccmp' Sk+AUIA-adanie/dekompozycja glif+APMA-w w hebrajskie w tablicy 27-1" uni05D2 uni05BC
+EndChar
+
+StartChar: uniFB33
+Encoding: 64307 64307 1788
+Width: 1135
+Flags: W
+LayerCount: 2
+Fore
+Refer: 1650 1491 N 1 0 0 1 0 0 3
+Refer: 1717 1468 N 1 0 0 1 383 0 2
+Ligature2: "'ccmp' Sk+AUIA-adanie/dekompozycja glif+APMA-w w hebrajskie w tablicy 27-1" uni05D3 uni05BC
+EndChar
+
+StartChar: uniFB34
+Encoding: 64308 64308 1789
+Width: 1298
+Flags: W
+LayerCount: 2
+Fore
+Refer: 1651 1492 N 1 0 0 1 0 0 3
+Refer: 1717 1468 N 1 0 0 1 641 0 2
+Ligature2: "'ccmp' Sk+AUIA-adanie/dekompozycja glif+APMA-w w hebrajskie w tablicy 27-1" uni05D4 uni05BC
+EndChar
+
+StartChar: uniFB35
+Encoding: 64309 64309 1790
+Width: 532
+Flags: W
+LayerCount: 2
+Fore
+Refer: 1652 1493 N 1 0 0 1 0 0 3
+Refer: 1717 1468 N 1 0 0 1 10 0 2
+Ligature2: "'ccmp' Sk+AUIA-adanie/dekompozycja glif+APMA-w w hebrajskie w tablicy 27-1" uni05D5 uni05BC
+EndChar
+
+StartChar: uniFB36
+Encoding: 64310 64310 1791
+Width: 662
+Flags: W
+LayerCount: 2
+Fore
+Refer: 1653 1494 N 1 0 0 1 0 0 3
+Refer: 1717 1468 N 1 0 0 1 27 0 2
+Ligature2: "'ccmp' Sk+AUIA-adanie/dekompozycja glif+APMA-w w hebrajskie w tablicy 27-1" uni05D6 uni05BC
+EndChar
+
+StartChar: uniFB38
+Encoding: 64312 64312 1792
+Width: 1337
+Flags: W
+LayerCount: 2
+Fore
+Refer: 1655 1496 N 1 0 0 1 0 0 3
+Refer: 1717 1468 N 1 0 0 1 694 0 2
+Ligature2: "'ccmp' Sk+AUIA-adanie/dekompozycja glif+APMA-w w hebrajskie w tablicy 27-1" uni05D8 uni05BC
+EndChar
+
+StartChar: uniFB39
+Encoding: 64313 64313 1793
+Width: 532
+Flags: W
+LayerCount: 2
+Fore
+Refer: 1656 1497 N 1 0 0 1 0 0 3
+Refer: 1717 1468 N 1 0 0 1 10 172 2
+Ligature2: "'ccmp' Sk+AUIA-adanie/dekompozycja glif+APMA-w w hebrajskie w tablicy 27-1" uni05D9 uni05BC
+EndChar
+
+StartChar: uniFB3A
+Encoding: 64314 64314 1794
+Width: 1094
+Flags: W
+LayerCount: 2
+Fore
+Refer: 1657 1498 N 1 0 0 1 0 0 3
+Refer: 1717 1468 N 1 0 0 1 408 0 2
+Ligature2: "'ccmp' Sk+AUIA-adanie/dekompozycja glif+APMA-w w hebrajskie w tablicy 27-1" uni05DA uni05BC
+EndChar
+
+StartChar: uniFB3B
+Encoding: 64315 64315 1795
+Width: 1075
+Flags: W
+LayerCount: 2
+Fore
+Refer: 1658 1499 N 1 0 0 1 0 0 3
+Refer: 1717 1468 N 1 0 0 1 465 -69 2
+Ligature2: "'ccmp' Sk+AUIA-adanie/dekompozycja glif+APMA-w w hebrajskie w tablicy 27-1" uni05DB uni05BC
+EndChar
+
+StartChar: uniFB3C
+Encoding: 64316 64316 1796
+Width: 1085
+Flags: W
+LayerCount: 2
+Fore
+Refer: 1659 1500 N 1 0 0 1 0 0 3
+Refer: 1717 1468 N 1 0 0 1 428 16 2
+Ligature2: "'ccmp' Sk+AUIA-adanie/dekompozycja glif+APMA-w w hebrajskie w tablicy 27-1" uni05DC uni05BC
+EndChar
+
+StartChar: uniFB3E
+Encoding: 64318 64318 1797
+Width: 1407
+Flags: W
+LayerCount: 2
+Fore
+Refer: 1661 1502 N 1 0 0 1 0 0 3
+Refer: 1717 1468 N 1 0 0 1 760 16 2
+Ligature2: "'ccmp' Sk+AUIA-adanie/dekompozycja glif+APMA-w w hebrajskie w tablicy 27-1" uni05DE uni05BC
+EndChar
+
+StartChar: uniFB40
+Encoding: 64320 64320 1798
+Width: 797
+Flags: W
+LayerCount: 2
+Fore
+Refer: 1663 1504 N 1 0 0 1 0 0 3
+Refer: 1717 1468 N 1 0 0 1 201 0 2
+Ligature2: "'ccmp' Sk+AUIA-adanie/dekompozycja glif+APMA-w w hebrajskie w tablicy 27-1" uni05E0 uni05BC
+EndChar
+
+StartChar: uniFB41
+Encoding: 64321 64321 1799
+Width: 1343
+Flags: W
+LayerCount: 2
+Fore
+Refer: 1664 1505 N 1 0 0 1 0 0 3
+Refer: 1717 1468 N 1 0 0 1 678 0 2
+Ligature2: "'ccmp' Sk+AUIA-adanie/dekompozycja glif+APMA-w w hebrajskie w tablicy 27-1" uni05E1 uni05BC
+EndChar
+
+StartChar: uniFB43
+Encoding: 64323 64323 1800
+Width: 1276
+Flags: W
+LayerCount: 2
+Fore
+Refer: 1666 1507 N 1 0 0 1 0 0 3
+Refer: 1717 1468 N 1 0 0 1 565 186 2
+Ligature2: "'ccmp' Sk+AUIA-adanie/dekompozycja glif+APMA-w w hebrajskie w tablicy 27-1" uni05E3 uni05BC
+EndChar
+
+StartChar: uniFB44
+Encoding: 64324 64324 1801
+Width: 1249
+Flags: W
+LayerCount: 2
+Fore
+Refer: 1667 1508 N 1 0 0 1 0 0 3
+Refer: 1717 1468 N 1 0 0 1 557 180 2
+Ligature2: "'ccmp' Sk+AUIA-adanie/dekompozycja glif+APMA-w w hebrajskie w tablicy 27-1" uni05E4 uni05BC
+EndChar
+
+StartChar: uniFB46
+Encoding: 64326 64326 1802
+Width: 1116
+Flags: W
+LayerCount: 2
+Fore
+Refer: 1669 1510 N 1 0 0 1 0 0 3
+Refer: 1717 1468 N 1 0 0 1 328 -300 2
+Ligature2: "'ccmp' Sk+AUIA-adanie/dekompozycja glif+APMA-w w hebrajskie w tablicy 27-1" uni05E6 uni05BC
+EndChar
+
+StartChar: uniFB47
+Encoding: 64327 64327 1803
+Width: 1208
+Flags: W
+LayerCount: 2
+Fore
+Refer: 1670 1511 N 1 0 0 1 0 0 3
+Refer: 1717 1468 N 1 0 0 1 596 100 2
+Ligature2: "'ccmp' Sk+AUIA-adanie/dekompozycja glif+APMA-w w hebrajskie w tablicy 27-1" uni05E7 uni05BC
+EndChar
+
+StartChar: uniFB48
+Encoding: 64328 64328 1804
+Width: 1094
+Flags: W
+LayerCount: 2
+Fore
+Refer: 1671 1512 N 1 0 0 1 0 0 3
+Refer: 1717 1468 N 1 0 0 1 408 0 2
+Ligature2: "'ccmp' Sk+AUIA-adanie/dekompozycja glif+APMA-w w hebrajskie w tablicy 27-1" uni05E8 uni05BC
+EndChar
+
+StartChar: uniFB49
+Encoding: 64329 64329 1805
+Width: 1495
+Flags: W
+LayerCount: 2
+Fore
+Refer: 1672 1513 N 1 0 0 1 0 0 3
+Refer: 1717 1468 N 1 0 0 1 952 -79 2
+Ligature2: "'ccmp' Sk+AUIA-adanie/dekompozycja glif+APMA-w w hebrajskie w tablicy 27-1" uni05E9 uni05BC
+EndChar
+
+StartChar: uniFB4A
+Encoding: 64330 64330 1806
+Width: 1415
+Flags: W
+LayerCount: 2
+Fore
+Refer: 1673 1514 N 1 0 0 1 0 0 3
+Refer: 1717 1468 N 1 0 0 1 737 0 2
+Ligature2: "'ccmp' Sk+AUIA-adanie/dekompozycja glif+APMA-w w hebrajskie w tablicy 27-1" uni05EA uni05BC
+EndChar
+
+StartChar: uniFB4B
+Encoding: 64331 64331 1807
+Width: 532
+Flags: W
+LayerCount: 2
+Fore
+Refer: 1652 1493 N 1 0 0 1 0 0 3
+Refer: 1714 1465 N 1 0 0 1 266 0 2
+Ligature2: "'ccmp' Sk+AUIA-adanie/dekompozycja glif+APMA-w w hebrajskie w tablicy 27-1" uni05D5 uni05B9
+EndChar
+
+StartChar: uniFB4C
+Encoding: 64332 64332 1808
+Width: 1225
+Flags: W
+LayerCount: 2
+Fore
+Refer: 1648 1489 N 1 0 0 1 0 0 3
+Refer: 1720 1471 N 1 0 0 1 516 0 2
+Ligature2: "'liga' Ligatury zwyk+AUIA-e w hebrajskie w tablicy 29-1" uni05D1 uni05BF
+Ligature2: "'ccmp' Sk+AUIA-adanie/dekompozycja glif+APMA-w w hebrajskie w tablicy 27-1" uni05D1 uni05BF
+EndChar
+
+StartChar: uniFB4D
+Encoding: 64333 64333 1809
+Width: 1075
+Flags: W
+LayerCount: 2
+Fore
+Refer: 1658 1499 N 1 0 0 1 0 0 3
+Refer: 1720 1471 N 1 0 0 1 469 0 2
+Ligature2: "'liga' Ligatury zwyk+AUIA-e w hebrajskie w tablicy 29-1" uni05DB uni05BF
+Ligature2: "'ccmp' Sk+AUIA-adanie/dekompozycja glif+APMA-w w hebrajskie w tablicy 27-1" uni05DB uni05BF
+EndChar
+
+StartChar: uniFB4E
+Encoding: 64334 64334 1810
+Width: 1249
+Flags: W
+LayerCount: 2
+Fore
+Refer: 1667 1508 N 1 0 0 1 0 0 3
+Refer: 1720 1471 N 1 0 0 1 578 0 2
+Ligature2: "'liga' Ligatury zwyk+AUIA-e w hebrajskie w tablicy 29-1" uni05E4 uni05BF
+Ligature2: "'ccmp' Sk+AUIA-adanie/dekompozycja glif+APMA-w w hebrajskie w tablicy 27-1" uni05E4 uni05BF
+EndChar
+
+StartChar: uniFB4F
+Encoding: 64335 64335 1811
+Width: 1286
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+899 477 m 1,0,-1
+ 1260 0 l 1,1,-1
+ 1026 0 l 1,2,-1
+ 238 1071 l 1,3,-1
+ 80 1071 l 1,4,-1
+ 80 1665 l 1,5,-1
+ 266 1665 l 1,6,-1
+ 266 1227 l 1,7,-1
+ 352 1227 l 1,8,-1
+ 803 606 l 1,9,10
+ 878 676 878 676 922.5 775.5 c 128,-1,11
+ 967 875 967 875 981 1004 c 2,12,-1
+ 1004 1227 l 1,13,-1
+ 1194 1227 l 1,14,-1
+ 1171 1008 l 2,15,16
+ 1160 898 1160 898 1131 815 c 0,17,18
+ 1101 729 1101 729 1051.5 654 c 128,-1,19
+ 1002 579 1002 579 899 477 c 1,0,-1
+EndSplineSet
+Ligature2: "'dlig' Ligatury ozdobne w hebrajskie w tablicy 26-1" uni05D0 uni05DC
 EndChar
 EndChars
 EndSplineFont
